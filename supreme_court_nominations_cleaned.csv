@@ -1,74 +1,73 @@
-,,,,0,2,4-Jan-1900,6,8,10-Jan-1900
 0,Senate Majority,Nominated By,Nomination By Party,Nominee,To Replace,Nominated*,Vote**,Result,Result & Date***
-2,R,Trump,R,"Kavanaugh, Brett",Kennedy,10-Jul-2018,50-48 No.  223,C,6-Oct-2018
-3,R,Trump,R,"Gorsuch, Neil M.",Scalia,1-Feb-2017,54-45 No.  111,C,7-Apr-2017
-5,R,Obama,D,"Garland, Merrick B.",Scalia,16-Mar-2016,,N,
-6,D,Obama,D,"Kagan, Elena",Stevens,10-May-2010,63-37 No.  229,C,5-Aug-2010
-7,D,Obama,D,"Sotomayor, Sonia",Souter,1-Jun-2009,68-31 No.  262,C,6-Aug-2009
-9,R,W Bush,R,"Alito, Samuel A., Jr.",O'Connor,10-Nov-2005,58-42 No.  2,C,31-Jan-2006
-10,R,W Bush,R,"Miers, Harriet",O'Connor,7-Oct-2005,,W,28-Oct-2005
-11,R,W Bush,R,"Roberts, John G., Jr.1",Rehnquist,6-Sep-2005,78-22 No.  245,C,29-Sep-2005
-12,R,W Bush,R,"Roberts, John G., Jr.",O'Connor,29-Jul-2005,,W,6-Sep-2005
-14,D,Clinton,D,"Breyer, Stephen G.",Blackmun,17-May-1994,87-9 No.  242,C,29-Jul-1994
-15,D,Clinton,D,"Ginsburg, Ruth Bader",White,22-Jun-1993,96-3 No.  232,C,3-Aug-1993
-17,D,HW Bush,R,"Thomas, Clarence",Marshall,8-Jul-1991,52-48 No.  220,C,15-Oct-1991
-18,D,HW Bush,R,"Souter, David H.",Brennan,25-Jul-1990,90-9 No.  259,C,2-Oct-1990
-20,D,Reagan,R,"Kennedy, Anthony M.",Powell,30-Nov-1987,97-0 No.  16,C,3-Feb-1988
-21,D,Reagan,R,"Bork, Robert H.",Powell,7-Jul-1987,42-58 No.  348,R,23-Oct-1987
-22,R,Reagan,R,"Scalia, Antonin",Rehnquist,24-Jun-1986,98-0 No.  267,C,17-Sep-1986
-23,R,Reagan,R,"Rehnquist, William H. 2",Burger,20-Jun-1986,65-33 No.  266,C,17-Sep-1986
-24,R,Reagan,R,"O'Connor, Sandra Day",Stewart,19-Aug-1981,99-0 No.  274,C,21-Sep-1981
-26,D,Ford,R,"Stevens, John Paul",Douglas,28-Nov-1975,98-0 No.  603,C,17-Dec-1975
-28,D,Nixon,R,"Rehnquist, William H.",Harlan,22-Oct-1971,68-26 No.  450,C,10-Dec-1971
-29,D,Nixon,R,"Powell, Lewis F., Jr.",Black,22-Oct-1971,89-1 No.  439,C,6-Dec-1971
-30,D,Nixon,R,"Blackmun, Harry",Fortas,15-Apr-1970,94-0 No.  143,C,12-May-1970
-31,D,Nixon,R,"Carswell, G. Harrold",Fortas,19-Jan-1970,45-51 No.  122,R,8-Apr-1970
-32,D,Nixon,R,"Haynsworth, Clement, Jr.",Fortas,21-Aug-1969,45-55 No.  154,R,21-Nov-1969
-33,D,Nixon,R,"Burger, Warren 3",Warren,23-May-1969,74-3 No.  35,C,9-Jun-1969
-35,D,Johnson,D,"Thornberry, Homer",Fortas,26-Jun-1968,,W,4-Oct-1968
-36,D,Johnson,D,"Fortas, Abe 4",Warren,26-Jun-1968,,W,4-Oct-1968
-37,D,Johnson,D,"Marshall, Thurgood",Clark,13-Jun-1967,69-11 No.  240,C,30-Aug-1967
-38,D,Johnson,D,"Fortas, Abe",Goldberg,28-Jul-1965,V,C,11-Aug-1965
-40,D,Kennedy,D,"Goldberg, Arthur",Frankfurter,31-Aug-1962,V,C,25-Sep-1962
-41,D,Kennedy,D,"White, Byron",Whittaker,3-Apr-1962,V,C,11-Apr-1962
-43,D,Eisenhower,R,"Stewart, Potter",Burton,17-Jan-1959,70-17,C,5-May-1959
-44,D,Eisenhower,R,"Whittaker, Charles",Reed,2-Mar-1957,V,C,19-Mar-1957
-45,D,Eisenhower,R,"Brennan, William, Jr.",Minton,14-Jan-1957,V,C,19-Mar-1957
-46,D,Eisenhower,R,"Harlan, John",Jackson,10-Jan-1955,71-11,C,16-Mar-1955
-47,R,Eisenhower,R,"Harlan, John",Jackson,9-Nov-1954,,N,
-48,R,Eisenhower,R,"Warren, Earl 5",Vinson,11-Jan-1954,V,C,1-Mar-1954
-50,R,Truman,D,"Minton, Sherman",Rutledge,15-Sep-1949,48-16,C,4-Oct-1949
-51,R,Truman,D,"Clark, Tom",Murphy,2-Aug-1949,73-8,C,18-Aug-1949
-52,D,Truman,D,"Vinson, Fred 6",Stone,6-Jun-1946,V,C,20-Jun-1946
-53,D,Truman,D,"Burton, Harold",Roberts,18-Sep-1945,V,C,19-Sep-1945
-55,D,F Roosevelt,D,"Rutledge, Wiley",Byrnes,11-Jan-1943,V,C,8-Feb-1943
-56,D,F Roosevelt,D,"Jackson, Robert",Stone,12-Jun-1941,V,C,7-Jul-1941
-57,D,F Roosevelt,D,"Byrnes, James",McReynolds,12-Jun-1941,V,C,12-Jun-1941
-58,D,F Roosevelt,D,"Stone, Harlan 7",Hughes,12-Jun-1941,V,C,27-Jun-1941
-59,D,F Roosevelt,D,"Murphy, Frank",Butler,4-Jan-1940,V,C,16-Jan-1940
-60,D,F Roosevelt,D,"Douglas, William",Brandeis,20-Mar-1939,62-4,C,4-Apr-1939
-61,D,F Roosevelt,D,"Frankfurter, Felix",Cardozo,5-Jan-1939,V,C,17-Jan-1939
-62,D,F Roosevelt,D,"Reed, Stanley",Sutherland,15-Jan-1938,V,C,25-Jan-1938
-63,D,F Roosevelt,D,"Black, Hugo",Van Devanter,12-Aug-1937,63-16,C,17-Aug-1937
-65,R,Hoover,R,"Cardozo, Benjamin",Holmes,15-Feb-1932,V,C,24-Feb-1932
-66,R,Hoover,R,"Roberts, Owen",Sanford,9-May-1930,V,C,20-May-1930
-67,R,Hoover,R,"Parker, John",Sanford,21-Mar-1930,39-41,R,7-May-1930
-68,R,Hoover,R,"Hughes, Charles 8",Taft,3-Feb-1930,52-26,C,13-Feb-1930
-70,R,Coolidge,R,"Stone, Harlan",McKenna,5-Jan-2025,71-6,C,5-Feb-2025
-72,R,Harding,R,"Sanford, Edward",Pitney,24-Jan-2023,V,C,29-Jan-2023
-73,R,Harding,R,"Butler, Pierce",Day,5-Dec-2022,61-8,C,21-Dec-2022
-74,R,Harding,R,"Butler, Pierce",Day,21-Nov-2022,,N,
-75,R,Harding,R,"Sutherland, George",Clarke,5-Sep-2022,V,C,5-Sep-2022
-76,R,Harding,R,"Taft, William 9",White,30-Jun-2021,60-4,C,30-Jun-2021
-78,D,Wilson,D,"Clarke, John",Hughes,14-Jul-2016,V,C,24-Jul-2016
-79,D,Wilson,D,"Brandeis, Louis",Lamar,28-Jan-2016,47-22,C,1-Jun-2016
-80,D,Wilson,D,"McReynolds, James",Lurton,19-Aug-2014,44-6,C,29-Aug-2014
-82,R,Taft,R,"Pitney, Mahlon",Harlan,19-Feb-2012,50-26,C,13-Mar-2012
-83,R,Taft,R,"Lamar, Joseph",Moody,12-Dec-2010,V,C,15-Dec-2010
-84,R,Taft,R,"Devanter, Willis Van",White,12-Dec-2010,V,C,15-Dec-2010
-85,R,Taft,R,"White, Edward10",Fuller,12-Dec-2010,V,C,12-Dec-2010
-86,R,Taft,R,"Hughes, Charles",Brewer,25-Apr-2010,V,C,2-May-2010
-87,R,Taft,R,"Lurton, Horace",Peckham,13-Dec-2009,V,C,20-Dec-2009
-89,R,T Roosevelt,R,"Moody, William",Brown,3-Dec-2006,V,C,12-Dec-2006
-90,R,T Roosevelt,R,"Day, William",Shiras,19-Feb-2003,V,C,23-Feb-2003
-91,R,T Roosevelt,R,"Holmes, Oliver",Gray,2-Dec-2002,V,C,4-Dec-2002
+2,R,Trump,R,"Kavanaugh, Brett",Kennedy,7/10/2018,50-48 No.  223,C,10/6/2018
+3,R,Trump,R,"Gorsuch, Neil M.",Scalia,2/1/2017,54-45 No.  111,C,4/7/2017
+5,R,Obama,D,"Garland, Merrick B.",Scalia,3/16/2016,,N,
+6,D,Obama,D,"Kagan, Elena",Stevens,5/10/2010,63-37 No.  229,C,8/5/2010
+7,D,Obama,D,"Sotomayor, Sonia",Souter,6/1/2009,68-31 No.  262,C,8/6/2009
+9,R,W Bush,R,"Alito, Samuel A., Jr.",O'Connor,11/10/2005,58-42 No.  2,C,1/31/2006
+10,R,W Bush,R,"Miers, Harriet",O'Connor,10/7/2005,,W,10/28/2005
+11,R,W Bush,R,"Roberts, John G., Jr.1",Rehnquist,9/6/2005,78-22 No.  245,C,9/29/2005
+12,R,W Bush,R,"Roberts, John G., Jr.",O'Connor,7/29/2005,,W,9/6/2005
+14,D,Clinton,D,"Breyer, Stephen G.",Blackmun,5/17/1994,87-9 No.  242,C,7/29/1994
+15,D,Clinton,D,"Ginsburg, Ruth Bader",White,6/22/1993,96-3 No.  232,C,8/3/1993
+17,D,HW Bush,R,"Thomas, Clarence",Marshall,7/8/1991,52-48 No.  220,C,10/15/1991
+18,D,HW Bush,R,"Souter, David H.",Brennan,7/25/1990,90-9 No.  259,C,10/2/1990
+20,D,Reagan,R,"Kennedy, Anthony M.",Powell,11/30/1987,97-0 No.  16,C,2/3/1988
+21,D,Reagan,R,"Bork, Robert H.",Powell,7/7/1987,42-58 No.  348,R,10/23/1987
+22,R,Reagan,R,"Scalia, Antonin",Rehnquist,6/24/1986,98-0 No.  267,C,9/17/1986
+23,R,Reagan,R,"Rehnquist, William H. 2",Burger,6/20/1986,65-33 No.  266,C,9/17/1986
+24,R,Reagan,R,"O'Connor, Sandra Day",Stewart,8/19/1981,99-0 No.  274,C,9/21/1981
+26,D,Ford,R,"Stevens, John Paul",Douglas,11/28/1975,98-0 No.  603,C,12/17/1975
+28,D,Nixon,R,"Rehnquist, William H.",Harlan,10/22/1971,68-26 No.  450,C,12/10/1971
+29,D,Nixon,R,"Powell, Lewis F., Jr.",Black,10/22/1971,89-1 No.  439,C,12/6/1971
+30,D,Nixon,R,"Blackmun, Harry",Fortas,4/15/1970,94-0 No.  143,C,5/12/1970
+31,D,Nixon,R,"Carswell, G. Harrold",Fortas,1/19/1970,45-51 No.  122,R,4/8/1970
+32,D,Nixon,R,"Haynsworth, Clement, Jr.",Fortas,8/21/1969,45-55 No.  154,R,11/21/1969
+33,D,Nixon,R,"Burger, Warren 3",Warren,5/23/1969,74-3 No.  35,C,6/9/1969
+35,D,Johnson,D,"Thornberry, Homer",Fortas,6/26/1968,,W,10/4/1968
+36,D,Johnson,D,"Fortas, Abe 4",Warren,6/26/1968,,W,10/4/1968
+37,D,Johnson,D,"Marshall, Thurgood",Clark,6/13/1967,69-11 No.  240,C,8/30/1967
+38,D,Johnson,D,"Fortas, Abe",Goldberg,7/28/1965,V,C,8/11/1965
+40,D,Kennedy,D,"Goldberg, Arthur",Frankfurter,8/31/1962,V,C,9/25/1962
+41,D,Kennedy,D,"White, Byron",Whittaker,4/3/1962,V,C,4/11/1962
+43,D,Eisenhower,R,"Stewart, Potter",Burton,1/17/1959,70-17,C,5/5/1959
+44,D,Eisenhower,R,"Whittaker, Charles",Reed,3/2/1957,V,C,3/19/1957
+45,D,Eisenhower,R,"Brennan, William, Jr.",Minton,1/14/1957,V,C,3/19/1957
+46,D,Eisenhower,R,"Harlan, John",Jackson,1/10/1955,71-11,C,3/16/1955
+47,R,Eisenhower,R,"Harlan, John",Jackson,11/9/1954,,N,
+48,R,Eisenhower,R,"Warren, Earl 5",Vinson,1/11/1954,V,C,3/1/1954
+50,R,Truman,D,"Minton, Sherman",Rutledge,9/15/1949,48-16,C,10/4/1949
+51,R,Truman,D,"Clark, Tom",Murphy,8/2/1949,73-8,C,8/18/1949
+52,D,Truman,D,"Vinson, Fred 6",Stone,6/6/1946,V,C,6/20/1946
+53,D,Truman,D,"Burton, Harold",Roberts,9/18/1945,V,C,9/19/1945
+55,D,F Roosevelt,D,"Rutledge, Wiley",Byrnes,1/11/1943,V,C,2/8/1943
+56,D,F Roosevelt,D,"Jackson, Robert",Stone,6/12/1941,V,C,7/7/1941
+57,D,F Roosevelt,D,"Byrnes, James",McReynolds,6/12/1941,V,C,6/12/1941
+58,D,F Roosevelt,D,"Stone, Harlan 7",Hughes,6/12/1941,V,C,6/27/1941
+59,D,F Roosevelt,D,"Murphy, Frank",Butler,1/4/1940,V,C,1/16/1940
+60,D,F Roosevelt,D,"Douglas, William",Brandeis,3/20/1939,62-4,C,4/4/1939
+61,D,F Roosevelt,D,"Frankfurter, Felix",Cardozo,1/5/1939,V,C,1/17/1939
+62,D,F Roosevelt,D,"Reed, Stanley",Sutherland,1/15/1938,V,C,1/25/1938
+63,D,F Roosevelt,D,"Black, Hugo",Van Devanter,8/12/1937,63-16,C,8/17/1937
+65,R,Hoover,R,"Cardozo, Benjamin",Holmes,2/15/1932,V,C,2/24/1932
+66,R,Hoover,R,"Roberts, Owen",Sanford,5/9/1930,V,C,5/20/1930
+67,R,Hoover,R,"Parker, John",Sanford,3/21/1930,39-41,R,5/7/1930
+68,R,Hoover,R,"Hughes, Charles 8",Taft,2/3/1930,52-26,C,2/13/1930
+70,R,Coolidge,R,"Stone, Harlan",McKenna,1/5/1925,71-6,C,2/5/1925
+72,R,Harding,R,"Sanford, Edward",Pitney,1/24/1923,V,C,1/29/1923
+73,R,Harding,R,"Butler, Pierce",Day,12/5/1922,61-8,C,12/21/1922
+74,R,Harding,R,"Butler, Pierce",Day,11/21/1922,,N,
+75,R,Harding,R,"Sutherland, George",Clarke,9/5/1922,V,C,9/5/1922
+76,R,Harding,R,"Taft, William 9",White,6/30/1921,60-4,C,6/30/1921
+78,D,Wilson,D,"Clarke, John",Hughes,7/14/1916,V,C,7/24/1916
+79,D,Wilson,D,"Brandeis, Louis",Lamar,1/28/1916,47-22,C,6/1/1916
+80,D,Wilson,D,"McReynolds, James",Lurton,8/19/1914,44-6,C,8/29/1914
+82,R,Taft,R,"Pitney, Mahlon",Harlan,2/19/1912,50-26,C,3/13/1912
+83,R,Taft,R,"Lamar, Joseph",Moody,12/12/1910,V,C,12/15/1910
+84,R,Taft,R,"Devanter, Willis Van",White,12/12/1910,V,C,12/15/1910
+85,R,Taft,R,"White, Edward10",Fuller,12/12/1910,V,C,12/12/1910
+86,R,Taft,R,"Hughes, Charles",Brewer,4/25/1910,V,C,5/2/1910
+87,R,Taft,R,"Lurton, Horace",Peckham,12/13/1909,V,C,12/20/1909
+89,R,T Roosevelt,R,"Moody, William",Brown,12/3/1906,V,C,12/12/1906
+90,R,T Roosevelt,R,"Day, William",Shiras,2/19/1903,V,C,2/23/1903
+91,R,T Roosevelt,R,"Holmes, Oliver",Gray,12/2/1902,V,C,12/4/1902
